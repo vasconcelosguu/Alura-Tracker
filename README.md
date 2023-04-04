@@ -5,7 +5,7 @@ Projeto Utilizando VueJs para criar uma lista de tarefas com cronometro implemen
 
 ## Stack utilizada
 
-**Front-end:** VueJs | BulmaCSS
+**Front-end:** VueJs | BulmaCSS || Babel || FontAwesome
 
 ## Screenshots
 
