@@ -4,6 +4,10 @@
 Projeto Utilizando VueJs para criar uma lista de tarefas com cronometro implementado.
 
 
+## Autores
+
+- [@Gustavo Vasconcelos](https://www.github.com/vasconcelosguu)
+
 
 ## Stack utilizada
 
@@ -24,6 +28,8 @@ Para Iniciar a aplicação
   npm run serve
 ```
 
-## Autores
 
-- [@Gustavo Vasconcelos](https://www.github.com/vasconcelosguu)
+## Screenshots
+
+![Tracker Screenshot](https://github.com/vasconcelosguu/Alura-Tracker/blob/master/src/assets/App.jpg?raw=true)
+
