@@ -1,24 +1,29 @@
-# alura-tracker
 
-## Project setup
-```
-npm install
-```
+# Alura Tracker
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Projeto Utilizando VueJs para criar uma lista de tarefas com cronometro implementado.
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
+
+## Stack utilizada
+
+**Front-end:** VueJs | BulmaCSS
+
+
+## Rodando os testes
+
+Para instalar as dependencias:
+
+```bash
+  npm i || npm install
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Para Iniciar a aplicação
+
+```bash
+  npm run serve
+```
+
+## Autores
+
+- [@Gustavo Vasconcelos](https://www.github.com/vasconcelosguu)
